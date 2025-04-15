@@ -3,9 +3,8 @@
 
 # Prompt
 Import-Module posh-git
-
-# oh-my-posh theme
-oh-my-posh init pwsh --config 'C:\Users\admcol.lattari\Documents\oh-my-posh\themes\jaradard.omp.json' | Invoke-Expression
+$omp_config = ".config\powershell\jaradard.omp.json"
+oh-my-posh init pwsh --config $omp_config | Invoke-Expression
 
 # Icons
 Import-Module -Name Terminal-Icons 
