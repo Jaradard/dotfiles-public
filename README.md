@@ -15,4 +15,5 @@ $env:USERPROFILE\.config
 2. [prompt customizations Oh My Posh](powershell/jaradard.omp.json)
 3. **Extra** [Terminal Windows configuration](powershell/settings.json)
 ### Captures
-![jaradard.omp.json](.img/jaradard.omp.json.png)
+![jaradard.omp.json](.img/1-jaradard.omp.json.png)  
+![jaradard.omp.json](.img/2-jaradard.omp.json.png)
